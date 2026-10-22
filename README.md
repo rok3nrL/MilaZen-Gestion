@@ -37,18 +37,16 @@ Se modeló el proceso que el sistema automatiza: el registro de una venta a un r
 
 ## Historias de usuario
 
-| Historia de usuario Nº1 | Como usuario de MilaZen-Gestion, quiero registrar una venta con cliente, productos, medio de pago y monto abonado, para controlar lo vendido y lo que me deben en menos de 1 minuto. |
-| Historia de usuario Nº2 | Como usuario de MilaZen-Gestion, quiero que el stock se actualice solo con cada producción y cada venta. Tambien recibir alertas, para decidir qué producir primero. |
-| Historia de usuario Nº3 | Como usuario de MilaZen-Gestion, quiero cambiar precios y recetas con vigencia desde la fecha del cambio, para calcular la rentabilidad real sin alterar resultados anteriores. |
+Las historias de usuario están en [docs/historias_de_usuario.md](docs/historias_de_usuario.md).
 
-El seguimiento de estas historias (Por hacer, En progreso, Listo) está en el tablero del proyecto: `LINK DEL TABLERO`
+Tablero del proyecto: 
 
 
 
 ## Indicadores de control
 
 | Indicador | Estándar |
-
+|---|---|
 | Tiempo para registrar una venta habitual | 60 segundos o menos |
 | Diferencia entre el stock del sistema y el stock real | 2 % o menos |
 | Ventas con el saldo del cliente bien calculado | 100 % |
@@ -61,13 +59,14 @@ Estos estándares salen de las metas definidas en la Entrega 2 (venta en menos d
 
 ## Declaración de Uso de IA
 
-Se usó **Claude** como asistente para organizar la Entrega 4, armar la idea del diagrama BPMN, hacer uso de github, desarrollar un README.md prolijo y corregir redacción y ortografía.
+Se usó **Claude** como asistente para organizar la Entrega 4, principalmente ayudo a comprender conceptos y uso de distintas herramientas como BPMN.io y Git-Hub. Fue muy util para darme nocion de como se arman un README.md mas profesional usando "##" y tablas.  
+Tambien me ayudo a corregir redacción y ortografía de manera muy agil.
 
-**Prompts utilizados y por qué:**
+**Prompts utilizados**
 
-1. Le pasé la consigna de la Entrega 4, y que me ayudar a pensar los pasos del proceso de venta para hacer el diagrama BPMN.
+1. Le pasé la consigna de la Entrega 4, y que me ayudara a pensar los pasos del proceso de venta para hacer el diagrama BPMN y donde hacerlo.
 2. Le pedí ayuda para redactar un README.md profesional guiandose por mi trabajo realziado hasta el TP nº 3.
-3. Le pedi que me ayudara con el uso de github y git por consola.
+3. Le pedi que me ayudara con el uso de Git-Hub y Git usando comandos por consola.
 
 **Correcciones que hice yo sobre lo que generó la IA:**
 
