@@ -95,4 +95,5 @@ Tambien me ayudo a corregir redacción y ortografía de manera muy agil.
 
 ## Revisión de pares
 
-Se recurrio a la autorevision en los procesos de Pull Request y no por parte de un compañero ya que este trabajo fue realizado por una sola persona. 
+Se recurrio a la autorevision en los procesos de Pull Request y no por parte de un compañero ya que este trabajo fue realizado por una sola persona.
+[Link](https://github.com/rok3nrL/MilaZen-Gestion/pull/1) de acceso a GitHub de uno de los Pull Request ya realizados.
