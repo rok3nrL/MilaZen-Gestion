@@ -16,10 +16,14 @@ El seguimiento de estas historias (Ready, In progres, Done) está en el tablero 
 - Si no hay stock suficiente, el sistema lo advierte antes de confirmar la venta.
 - Se registra el medio de pago y el monto abonado; si el pago es parcial, el saldo del cliente se actualiza con la diferencia.
 - Una venta habitual se registra en 60 segundos o menos (promedio de 5 ventas de prueba).
+
+
 **Historia 2 – Actualizar el stock y recibir alertas**
 - Al confirmar una venta, el stock de cada producto baja según la cantidad vendida.
 - Al registrar una producción, el stock del producto sube según la cantidad producida.
 - Si el stock queda por debajo del mínimo establecido, el sistema genera una alerta de producción.
+
+
 **Historia 3 – Cambiar precios y recetas con vigencia**
 - Cada cambio de precio o de receta se guarda como una versión nueva con su fecha de vigencia (`fecha_desde`).
 - El cambio rige desde esa fecha y no modifica ventas ni reportes anteriores.
