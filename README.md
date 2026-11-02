@@ -84,6 +84,7 @@ Tambien me ayudo a corregir redacción y ortografía de manera muy agil.
 2. Le pedí ayuda para redactar un README.md profesional guiandose por mi trabajo realziado hasta el TP nº 3.
 3. Le pedi que me ayudara con el uso de Git-Hub y Git usando comandos por consola.
 4. Le pedi que corrijiera errores ortograficos y aconsejara en una redaccion profesional.
+5. Le pedi ayuda para comprender las relaciones entre distintas tablas del diccionario de datos.
 
 **Correcciones que hice yo sobre lo que generó la IA:**
 
@@ -95,5 +96,5 @@ Tambien me ayudo a corregir redacción y ortografía de manera muy agil.
 
 ## Revisión de pares
 
-Se recurrio a la autorevision en los procesos de Pull Request y no por parte de un compañero ya que este trabajo fue realizado por una sola persona.
+Se recurrio a la autorevision en los procesos de Pull Request y no por parte de un compañero ya que este trabajo fue realizado por una sola persona. Sentiende que es un inconveniente no tener la mirada crítica independiente de otra persona.
 [Link](https://github.com/rok3nrL/MilaZen-Gestion/pull/1) de acceso a GitHub de uno de los Pull Request ya realizados.
