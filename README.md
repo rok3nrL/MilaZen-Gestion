@@ -53,23 +53,23 @@ Tablero del proyecto: https://github.com/users/rok3nrL/projects/1/views/1
 
 ## Indicadores de control
 
-## Indicadores del sistema (auditoría técnica)
+### Indicadores del sistema (auditoría técnica)
 
-| Indicador | Cómo se mide | Estándar |
-|---|---|---|
-| Tiempo de registro de una venta habitual | Promedio de cronometrar 5 ventas de prueba | 60 segundos o menos |
-| Productos gestionados | Productos cargados y operativos en el sistema | 8 de 8 |
-| Registros mensuales soportados | Compras y ventas cargadas en un mes de prueba sin fallas | 200 o más |
-| Acceso desde el celular | Dispositivos móviles que cargan y consultan datos | 2 de 2 |
-| Exactitud del stock | Diferencia entre el stock del sistema y el conteo físico | 2 % o menos |
-| Saldos de clientes correctos | Casos de prueba de ventas con pago parcial calculados bien | 100 % |
+| Indicador | Cómo se mide | Estándar | Responsable | Frecuencia |
+|---|---|---|---|---|
+| Tiempo de registro de una venta habitual | Promedio de cronometrar 5 ventas de prueba | 60 segundos o menos | Roberto Teodosio | Semanal, en la etapa de pruebas |
+| Productos gestionados | Productos cargados y operativos en el sistema | 8 de 8 | Roberto Teodosio | Una vez, en la implementación |
+| Registros mensuales soportados | Compras y ventas cargadas en un mes de prueba sin fallas | 200 o más | Roberto Teodosio | Una vez, en la etapa de pruebas |
+| Acceso desde el celular | Dispositivos móviles que cargan y consultan datos | 2 de 2 | Roberto Teodosio | Una vez, en la implementación |
+| Exactitud del stock | Diferencia entre el stock del sistema y el conteo físico | 2 % o menos | Roberto Teodosio | Mensual, una vez en uso |
+| Saldos de clientes correctos | Casos de prueba de ventas con pago parcial calculados bien | 100 % | Roberto Teodosio | Semanal, en la etapa de pruebas |
 
-## Indicadores del proyecto
+### Indicadores del proyecto
 
-| Indicador | Cómo se mide | Estándar |
-|---|---|---|
-| Cumplimiento del cronograma | Etapas del Gantt terminadas en la semana prevista | 5 de 5 |
-| Historias de usuario terminadas | Tarjetas en la columna Done del tablero | 3 de 3 |
+| Indicador | Cómo se mide | Meta | Responsable | Frecuencia |
+|---|---|---|---|---|
+| Cumplimiento del cronograma | Etapas del Gantt terminadas en la semana prevista | 5 de 5 | Roberto Teodosio | Al cierre de cada etapa |
+| Historias de usuario terminadas | Tarjetas en la columna Done del tablero | 3 de 3 | Roberto Teodosio | Semanal |
 
 
 
