@@ -27,7 +27,7 @@ El sistema propuesto es un programa de gestión, usable desde la computadora y d
 
 ## Proceso de negocio (BPMN)
 
-Se modeló el proceso que el sistema automatiza: el registro de una venta a un revendedor. Participan el cliente (actor externo), el propietario y el sistema. Las decisiones del proceso son: si el cliente está registrado, si hay stock suficiente, si el pago es total o parcial y si el stock queda por debajo del mínimo.
+Se modeló el proceso que el sistema automatiza: el registro de una venta a un revendedor. Participan el cliente (actor externo), el operador y el sistema. Las decisiones del proceso son: si el cliente está registrado, si hay stock suficiente, si el cliente acepta cambiar el pedido, si el pago es total o parcial y si el stock queda por debajo del mínimo. Del lado del cliente una compuerta basada en eventos espera respuesta de MilaZen.
 
 ![Imagen BPMN del proceso de venta](docs/BPMN_venta.png)
 
